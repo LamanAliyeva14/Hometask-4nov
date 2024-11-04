@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{EC840E64-DA57-428E-A293-307B0B94D2AD}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Abstract-Interface-Virtual-Polymorphism PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Abstract-Interface-Virtual-Polymorphism/Istore.cs">
+    <Files>
+      <File FileName="Abstract-Interface-Virtual-Polymorphism/Program.cs" Line="9" Column="6" />
+      <File FileName="Abstract-Interface-Virtual-Polymorphism/Shape.cs" Line="6" Column="30" />
+      <File FileName="Abstract-Interface-Virtual-Polymorphism/Circle.cs" Line="8" Column="12" />
+      <File FileName="Abstract-Interface-Virtual-Polymorphism/Rectangle.cs" Line="8" Column="1" />
+      <File FileName="Abstract-Interface-Virtual-Polymorphism/Product.cs" Line="9" Column="1" />
+      <File FileName="Abstract-Interface-Virtual-Polymorphism/Market.cs" Line="8" Column="4" />
+      <File FileName="Abstract-Interface-Virtual-Polymorphism/Student.cs" Line="16" Column="14" />
+      <File FileName="Abstract-Interface-Virtual-Polymorphism/Istore.cs" Line="9" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Abstract-Interface-Virtual-Polymorphism" expanded="True">
+            <Node name="Abstract-Interface-Virtual-Polymorphism">
+              <Node name="Istore.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

@@ -1,0 +1,5 @@
+/Users/limaaliyeva/Desktop/pb202/Abstract-Interface-Virtual-Polymorphism/Abstract-Interface-Virtual-Polymorphism/obj/Debug/net6.0/Abstract-Interface-Virtual-Polymorphism.csproj.AssemblyReference.cache
+/Users/limaaliyeva/Desktop/pb202/Abstract-Interface-Virtual-Polymorphism/Abstract-Interface-Virtual-Polymorphism/obj/Debug/net6.0/Abstract-Interface-Virtual-Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/Users/limaaliyeva/Desktop/pb202/Abstract-Interface-Virtual-Polymorphism/Abstract-Interface-Virtual-Polymorphism/obj/Debug/net6.0/Abstract-Interface-Virtual-Polymorphism.AssemblyInfoInputs.cache
+/Users/limaaliyeva/Desktop/pb202/Abstract-Interface-Virtual-Polymorphism/Abstract-Interface-Virtual-Polymorphism/obj/Debug/net6.0/Abstract-Interface-Virtual-Polymorphism.AssemblyInfo.cs
+/Users/limaaliyeva/Desktop/pb202/Abstract-Interface-Virtual-Polymorphism/Abstract-Interface-Virtual-Polymorphism/obj/Debug/net6.0/Abstract-Interface-Virtual-Polymorphism.csproj.CoreCompileInputs.cache
